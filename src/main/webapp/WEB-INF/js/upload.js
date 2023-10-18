@@ -24,7 +24,7 @@
  				dataType: 'text',
  				success: function(data){
  					alert(data);
- 					location.href = '/springMavenNCP/user/uploadList'
+ 					location.href = '/SpringMavenNCP/user/uploadList'
  				},
  				error: function(e){
  					console.log(e);
