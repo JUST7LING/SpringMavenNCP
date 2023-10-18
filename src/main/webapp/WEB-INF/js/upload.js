@@ -19,7 +19,7 @@
  				enctype: 'multipart/form-data',
  				processData: false,
  				contentType: false,
- 				url: '/springMavenNCP/user/upload',
+ 				url: '/SpringMavenNCP/user/upload',
  				data: formData,
  				dataType: 'text',
  				success: function(data){

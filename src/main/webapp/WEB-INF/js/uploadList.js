@@ -5,7 +5,7 @@
  $(function(){
  	$.ajax({
  		type: 'post',
- 		url: '/springMavenNCP/user/getUploadList',
+ 		url: '/SpringMavenNCP/user/getUploadList',
  		dataType: 'json',
  		success: function(data){
  			 var result;
