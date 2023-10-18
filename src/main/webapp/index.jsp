@@ -14,6 +14,7 @@
 <body>
 	
 	<h3>	here is Index file of SpringMavenNCP. </h3>
+	<img src = "../image/clapkid.gif" alt = 'clapkid'>
 	<button onclick = "location.href = '/SpringMavenNCP/user/uploadForm'">업로드</button>
 	<button onclick = "location.href = '/SpringMavenNCP/user/uploadList'">목록</button> 
 	
